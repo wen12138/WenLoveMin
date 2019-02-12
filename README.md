@@ -1,6 +1,7 @@
 ﻿<html>
 <head>
 <title> The First Page</title>
+<base href="http://www.wenlovemin.com/" target="_blank">
 </head>
 <body>
 <h1>究极标题</h1>
