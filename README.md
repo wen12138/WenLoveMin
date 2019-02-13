@@ -19,13 +19,13 @@ p
    text-align:center;
    font-size:20px;
 }
-/*div{
+div{
     background-color:peachpuff;
 	width:450px;
 	border:20px solid #ffefd5;
 	padding:5px;
 	margin:25px;
-	}*/
+	}
 </style>
 </head>
 <body>
@@ -36,6 +36,6 @@ p
 <source src="/Music/Fighter.mp3" type="audio/mpeg">
 您的浏览器不支持audio元素。
 </audio>
-
+<div> 一个框框里边的字 </div>
 </body>
 </html>
