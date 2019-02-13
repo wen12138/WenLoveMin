@@ -15,14 +15,15 @@ h1
 }
 p
 {
+   text-align:center;
    font-size:20px;
 }
 </style>
 </head>
 <body>
-<h1>究极标题</h1>
- <p>究极段落</p>
-<p> <img src="/Picture/one.png" width="1280" height="720"/></p>
+<h1>琵琶行</h1>
+ <p>浔阳江头夜送客，枫叶荻花秋瑟瑟。</p>
+<img src="/Picture/one.png" width="1280" height="720"/>
 <audio controls>
 <source src="/Music/magic.mp3" type="audio/mpeg">
 您的浏览器不支持audio元素。
