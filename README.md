@@ -36,6 +36,6 @@ div{
 <source src="/Music/Fighter.mp3" type="audio/mpeg">
 您的浏览器不支持audio元素。
 </audio>
-<div> 一个框框里边的字。</div>
+
 </body>
 </html>
