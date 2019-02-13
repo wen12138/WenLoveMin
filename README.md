@@ -1,4 +1,4 @@
-﻿<html>
+<html>
 <head>
 <title> The First Page</title>
 <base href="http://www.wenlovemin.com/" target="_blank">
