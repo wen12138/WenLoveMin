@@ -19,13 +19,6 @@ p
    text-align:center;
    font-size:20px;
 }
-/*div{
-    background-color:peachpuff;
-	width:450px;
-	border:20px solid #ffefd5;
-	padding:5px;
-	margin:25px;
-}*/
 </style>
 </head>
 <body>
@@ -44,7 +37,6 @@ p
 <div id="content" style="background-color:black;height:450px;width:800px:float:left">
 <p>主人下马客在船<br>举酒欲饮无管弦</p><img src="/Picture/one.png" width="800"/></div>
 <div id="footer" style="background-color:red;height:100px;width:1280px"><p> 版权所有 盗版必究</p></div>
-
 
 </body>
 </html>
