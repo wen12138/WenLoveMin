@@ -15,6 +15,7 @@ h1
 }
 p
 {
+   color:pink;
    text-align:center;
    font-size:20px;
 }
