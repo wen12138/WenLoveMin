@@ -5,7 +5,7 @@
 <style>
 body
 {
-   background-color:black;
+   background-color:;wheat;
 }
 h1
 {
@@ -19,6 +19,13 @@ p
    text-align:center;
    font-size:20px;
 }
+div{
+    background-color:peachpuff;
+	width:450px;
+	border:20px solid #ffefd5;
+	padding:5px;
+	margin:25px;
+	}
 </style>
 </head>
 <body>
@@ -26,8 +33,9 @@ p
  <p>浔阳江头夜送客，枫叶荻花秋瑟瑟。</p>
 <img src="/Picture/one.png" width="1280" height="720"/>
 <audio controls>
-<source src="/Music/magic.mp3" type="audio/mpeg">
+<source src="/Music/Fighter.mp3" type="audio/mpeg">
 您的浏览器不支持audio元素。
 </audio>
+<div> 一个框框里边的字。</div>
 </body>
 </html>
