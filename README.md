@@ -45,6 +45,6 @@ p
 <p>主人下马客在船<br>举酒欲饮无管弦</p><img src="/Picture/one.png" width="600"/></div>
 <div id="footer" style="background-color:red;height:100px;width:1280px"><p> 版权所有 盗版必究</p></div>
 
-/*<div> 一个框框里边的字 </div>*/
+
 </body>
 </html>
