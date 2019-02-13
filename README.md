@@ -5,7 +5,7 @@
 <style>
 body
 {
-   background-color:;wheat;
+   background-color:wheat;
 }
 h1
 {
