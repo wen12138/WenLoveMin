@@ -9,13 +9,13 @@ body
 }
 h1
 {
-   color:red;
+   color:crimson;
    text-align:center;
    font-size:60px;
 }
 p
 {
-   color:pink;
+   color:hotpink;
    text-align:center;
    font-size:20px;
 }
@@ -29,15 +29,14 @@ p
 <div id="container" style="width:1024px">
 
 <div id="header" style="background-color:white;">
-<h1>琵琶行</h1></div>
+<h1>敏，情人节快乐!</h1></div>
 
-<div id="menu" style="background-color:hotpink;height:450px;width=224px;float:left">
-<p>浔阳江头夜送客<br>枫叶荻花秋瑟瑟</p></div>
+<div id="menu" style="background-color:cornsilk;height:450px;width=224px;float:left">
+<p>跟大宝贝在一起的第一个情人的嘞！</p></div>
 
 <div id="content" style="background-color:black;height:450px;width:800px:float:left">
-<img src="/Picture/one.png" height="450" width="800"/></div>
-<div id="footer" style="background-color:red;height:100px;width:1024px"><p> 版权所有 盗版必究</p></div>
+<img src="/Picture/-25a7271629ebe17e.jpg" height="450" width="800"/></div>
+<div id="footer" style="background-color:pink;height:100px;width:1024px;border-radius:25px"><p> 想想还真是羞耻！</p></div>
 
-<p><a href="/Link Page/new1.HTML" target="_blank">究极网页</a></p>
 </body>
 </html>
