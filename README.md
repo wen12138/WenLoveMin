@@ -38,6 +38,6 @@ p
 <img src="/Picture/one.png" height="450" width="800"/></div>
 <div id="footer" style="background-color:red;height:100px;width:1024px"><p> 版权所有 盗版必究</p></div>
 
-<p><a href="/new1.HTML" target="_blank">究极网页</a></p>
+<p><a href="/Link Page/new1.HTML" target="_blank">究极网页</a></p>
 </body>
 </html>
