@@ -36,7 +36,8 @@ p
 
 <div id="content" style="background-color:black;height:450px;width:800px:float:left">
 <p>主人下马客在船<br>举酒欲饮无管弦</p><img src="/Picture/one.png" width="800"/></div>
-<div id="footer" style="background-color:red;height:100px;width:1280px"><p> 版权所有 盗版必究</p></div>
+<div id="footer" style="background-color:red;height:100px;width:1024px"><p> 版权所有 盗版必究</p></div>
 
+<a herf="https://wenlovemin.com/new1.HTML#tips">究极网页</a>
 </body>
 </html>
