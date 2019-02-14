@@ -38,6 +38,6 @@ p
 <p>主人下马客在船<br>举酒欲饮无管弦</p><img src="/Picture/one.png height="350" width="600"></div>
 <div id="footer" style="background-color:red;height:100px;width:1024px"><p> 版权所有 盗版必究</p></div>
 
-<a herf="https://wenlovemin.com/new1.HTML#tips">究极网页</a>
+<a herf="https://wenlovemin.com/new1.HTML" target="_blank">究极网页</a>
 </body>
 </html>
