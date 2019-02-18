@@ -26,12 +26,12 @@ p
 <source src="/Music/Fighter.mp3" type="audio/mpeg">
 您的浏览器不支持audio元素。
 </audio>
-<div id="container" style="width:1024px">
+<div id="container" style="width:1000px">
 
 <div id="header" style="background-color:white;">
 <h1>敏，情人节快乐!</h1></div>
 
-<div id="menu" style="background-color:cornsilk;height:450px;width=224px;float:left">
+<div id="menu" style="background-color:cornsilk;height:450px;width=200px;float:left">
 <p>跟大宝贝在一起的第一个情人的嘞！</p></div>
 
 <div id="content" style="background-color:black;height:450px;width:800px:float:left">
