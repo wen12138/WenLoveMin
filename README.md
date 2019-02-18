@@ -1,7 +1,7 @@
 <html>
 <head>
 <title> The First Page</title>
-</head>
+
 <style>
 body
 {
@@ -38,5 +38,3 @@ p
 <img src="/Picture/-25a7271629ebe17e.jpg" height="1200" width="800"/></div>
 <div id="footer" style="background-color:pink;height:100px;width:1024px;border-radius:25px"><p> 想想还真是羞耻！</p></div>
 
-</body>
-</html>
