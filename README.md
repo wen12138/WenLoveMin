@@ -1,7 +1,5 @@
-<!DOCTYPE.html>
 <html>
 <head>
-<meta charset-"utf-8>
 <title> The First Page</title>
 </head>
 <style>
@@ -41,4 +39,4 @@ p
 <div id="footer" style="background-color:pink;height:100px;width:1024px;border-radius:25px"><p> 想想还真是羞耻！</p></div>
 
 </body>
-</htlm>
+</html>
